@@ -5,7 +5,7 @@
   "author": "Dongsu Jang <iolothebard@gmail.com>, Ethan Mick",
   "repository": {
     "type": "git",
-    "url": "git://git@github.com/cloudmine/mongoose-q.git"
+    "url": "git://git@github.com/ethanmick/mongoose-q.git"
   },
   "license": "MIT",
   "engines": {
